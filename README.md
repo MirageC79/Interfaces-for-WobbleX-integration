@@ -15,6 +15,7 @@ This metallic version of the Wobble Rings from EvoMoto will compensate for screw
 Each WobbleX Isolator is composed of an aluminum cross sandwiched between 4 Ball bearings and roller pins. The ball bearings will self center and retain themselves on the assembly using disc magnets.
 
 One interface disc will allow the WobbleX to slide and pivot on the Screw Nut while the other interface disc will match the bed mount.  
+![screen-gif](./Pictures/WobbleX_Gif12fps.gif)
 
 ## How can you integrate this on you printer?
 In this repository you will find CADs and STLs that can be adapted to various 3D printers in order to benefit from the best Z wobble management system.
