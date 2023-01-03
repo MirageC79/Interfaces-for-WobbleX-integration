@@ -17,8 +17,8 @@ Each WobbleX Isolator is composed of an aluminum cross sandwiched between 4 Ball
 One interface disc will allow the WobbleX to slide and pivot on the Screw Nut while the other interface disc will match the bed mount.  
 ![screen-gif](./Pictures/WobbleX_Gif12fps.gif)
 
-## How can you integrate this on you printer?
-In this repository you will find CADs and STLs that can be adapted to various 3D printers in order to benefit from the best Z wobble management system.
+## How can you integrate this on your printer?
+In this repository you will find CADs and STLs that can be adapted to various 3D printers in order to benefit from the best Z wobble management system out there.
 
 Buy WobbleX on Aliexpress Mellow 3D Official Store: https://s.click.aliexpress.com/e/_DDdeMyP
 
