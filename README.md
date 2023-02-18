@@ -1,6 +1,27 @@
 # Interfaces-for-WobbleX-integration
 
-## What is WobbleX?
+### Printers currently supported:
+**Voron**
+   - [Trident](https://github.com/MirageC79/Interfaces-for-WobbleX-integration/tree/main/Voron/Trident)  
+   - V0 ............... *rear panel impacted, investigating feasibility and demand*  
+<details><summary> Coming Soon: </summary>
+<p>  
+
+**Creality**
+   - Ender 3 .......... *coming soon...*  
+
+**RatRig**
+   - V-Core 3 ........ *coming soon...*  
+   - V-Minion ........ *coming soon...*  
+
+**VzBoT**
+   - VZ235 ........... *coming soon...*  
+   - VZ330 ........... *coming soon...*  
+</p>
+</details>
+<br>
+
+## What is WobbleX ?
 The WobbleX isolators were born after spending a lot of efforts in creating a strong and reliable triple Z axis for self levelling with multi-axis printing provisions.
 Because building a DIY 3D printer can induce a lot variability into the end result, we needed a way to limit the impact of:
 - Components sources and origin
