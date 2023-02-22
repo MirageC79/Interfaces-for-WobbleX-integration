@@ -16,13 +16,12 @@ Bill of Material required to accomplish this modification:
 |  1      | Z Carriage lower plate front left | [ZCarriageLeft_Plate_WS8.stl](https://github.com/MirageC79/Interfaces-for-WobbleX-integration/blob/main/Voron/Trident/ZCarriageLeft_Plate_WS8.stl)|
 |  1      | Z Carriage lower plate front Right | [ZCarriageRight_Plate_WS8.stl](https://github.com/MirageC79/Interfaces-for-WobbleX-integration/blob/main/Voron/Trident/ZCarriageRight_Plate_WS8.stl)|
 |  1*     | *Option #1 - Rear Z Carriage modified for WS8 ( Two holes) | [ZCarriageRear_2holes_WS8.stl](https://github.com/MirageC79/Interfaces-for-WobbleX-integration/blob/main/Voron/Trident/ZCarriageRear_2holes_WS8.stl)|
-|  1*     | *Option #2 - Rear Z Carriage modified for WS8 ( Three holes)| [ZCarriageRear_3holes_WS8.stl](https://github.com/MirageC79/Interfaces-for-WobbleX-integration/blob/main/Voron/Trident/ZCarriageRear_3holes_WS8.stl)|
-<br>
-<br>  
+|  1*     | *Option #2 - Rear Z Carriage modified for WS8 ( Three holes)| [ZCarriageRear_3holes_WS8.stl](https://github.com/MirageC79/Interfaces-for-WobbleX-integration/blob/main/Voron/Trident/ZCarriageRear_3holes_WS8.stl)|    
 
 ## STEP files:  
 [GitHub Directory](https://github.com/MirageC79/Interfaces-for-WobbleX-integration/blob/main/Voron/Trident/README.md)
 <br> 
+<br>
 
 ## Feedback
 I hope you enjoy this modification as much as I do.  As I dont have have a Trident myself, I did not validate this installation physically. 
