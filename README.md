@@ -1,18 +1,19 @@
 # Interfaces-for-WobbleX-integration
 
 ### Printers currently supported:
+**Creality**
+   - [Creality Ender 3](https://github.com/MirageC79/Interfaces-for-WobbleX-integration/tree/main/Creality/Ender3)
+
 **RatRig**
-   - [V-Core 3.1](https://github.com/MirageC79/Interfaces-for-WobbleX-integration/blob/main/RatRig/VCore3.1/README.md)  
+   - [V-Core 3.1](https://github.com/MirageC79/Interfaces-for-WobbleX-integration/blob/main/RatRig/VCore3.1)  
    - V-Minion ........ *coming soon...*  
 
 **Voron**
-   - [Trident](https://github.com/MirageC79/Interfaces-for-WobbleX-integration/tree/main/Voron/Trident/README.md)  
+   - [Trident](https://github.com/MirageC79/Interfaces-for-WobbleX-integration/tree/main/Voron/Trident)  
    - V0 ............... *rear panel impacted, investigating feasibility and demand*  
 <details><summary> Coming Soon: </summary>
 <p>  
 
-**Creality**
-   - Ender 3 .......... *coming soon...*  
 
 **VzBoT**
    - VZ235 ........... Currently not possible, clashing with RSCS ducting.
