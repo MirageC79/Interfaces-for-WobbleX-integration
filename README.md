@@ -21,6 +21,7 @@
 </p>
 </details>
 <br>
+
 **Mockups**
    - [Mockups for WobbleX custom installation](https://github.com/MirageC79/Interfaces-for-WobbleX-integration/tree/main/MockUp)
 <br>
