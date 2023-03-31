@@ -4,7 +4,7 @@ These parts will allow installation of WobbleX Isolators WS8 on Ender 3.
 
 Notes:
 * - I do not own a Creality Ender 3, these parts have not been physically validated.  See the [Feedback](/Creality/Ender3/README.md) section.
-  
+* - This mod will require that you relocate the stock Extruder.  Either go Direct Drive or create a bracket that will offset the extruder to make room for the WobbleX
   
 ## BOM
 Bill of Material required to accomplish this modification:
