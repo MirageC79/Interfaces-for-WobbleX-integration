@@ -11,7 +11,7 @@ Notes:
 Bill of Material required to accomplish this modification:
 |  Qty    |   Description      |    Link  |
 |  :---:  |--------------------|----------|
-|  1      | WobbleX WS8 kit for 8mm lead screw from Mellow 3D | https://s.click.aliexpress.com/e/_DFcwPoH |
+|  1      | WobbleX WS8 kit for 8mm lead screw from Mellow 3D<br>Kit Includes:<br>  Qty8 - 3mm diam X 8mm longs pins<br>  Qty4 - 4mm ball screws<br>  Qty1 - WobbleX Assembly (Magnets and pins loaded)  | https://s.click.aliexpress.com/e/_DFcwPoH |
 |  1      | 8mm T-Nut Adapter Lower Disc | [WobbleX_TR8_Adapter body.stl](https://github.com/MirageC79/Interfaces-for-WobbleX-integration/blob/main//Creality/Ender3/WobbleX_TR8_Adapter%20Body.stl)|
 |  1      | Z carriage adapter | [ZCarriage_WS8.stl](https://github.com/MirageC79/Interfaces-for-WobbleX-integration/blob/main/Creality/Ender3/ZCarriage_WS8.stl)
 |  1      | Top bearing mount (mandatory) | [TopBearingSupport_608.stl](https://github.com/MirageC79/Interfaces-for-WobbleX-integration/blob/main/Creality/Ender3/TopBearingSupport_608.stl)
