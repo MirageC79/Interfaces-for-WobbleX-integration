@@ -26,7 +26,7 @@ Bill of Material required to accomplish this modification:
 <br>
 
 ## Feedback
-I hope you enjoy this modification as much as I do.  As I dont have have a Trident myself, I did not validate this installation physically. 
+I hope you enjoy this modification as much as I do.  As I dont have have an Ender 3 myself, I did not validate this installation physically. 
 May you have any issue with the installation please [log an issue.](https://github.com/MirageC79/Interfaces-for-WobbleX-integration/issues)
 
 Happy Printing :smiley:
