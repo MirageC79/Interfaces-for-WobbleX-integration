@@ -27,5 +27,5 @@ Bill of Material required to accomplish this modification:
 <br>
 ![img](/Prusa_i3/MK3/x-end-motor_installation.png)
 <br>
-![img](/Prusa_i3/MK3/x-end-motor_uder_view.png)
+![img](/Prusa_i3/MK3/x-end-motor_under_view.png)
 <br>
