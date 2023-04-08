@@ -18,6 +18,4 @@ I printed everything in PLA with the steel pin side on the bed and 1mm brim. A p
 
 At the V-Minion the lead screw should be aligned well with the coupler first, than replace the coupler with the WobbleX assembly.
 
-/assets/images/WobbleXII_V-Minion.png
-
-![V-Minion WobbleX](/../main/assets/images/WobbleXII_V-Minion.png)
+![WobbleXII_V-Minion](https://user-images.githubusercontent.com/43618305/230717486-76797d7d-2bbb-45c7-8c67-3f4bca2a98c2.png)
