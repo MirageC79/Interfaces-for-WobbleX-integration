@@ -1,4 +1,5 @@
-An Idea for the RatRig V-Minion based on the WobbleX concept.
+An Idea for the RatRig V-Minion based on the WobbleX concept. 
+
 Development is in progress but it works pretty well so far.
 
 It is not possible to order the WobbleX WS8 at my place so I designed something similar.
@@ -13,6 +14,6 @@ Additional to the printed parts I used:
 
 If you have the WobbleX WS8 you need less.
 
-I printed everything in PLA with the steel pin side on the bed and 1mm brim.
+I printed everything in PLA with the steel pin side on the bed and 1mm brim. A pause has to be added in the slicer to insert the magnets.
 
-The lead screw should be aligned well with the coupler first, than replaced by the WobbleX assembly.
+At the V-Minion the lead screw should be aligned well with the coupler first, than replace the coupler with the WobbleX assembly.
