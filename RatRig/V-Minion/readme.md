@@ -17,3 +17,5 @@ If you have the WobbleX WS8 you need less.
 I printed everything in PLA with the steel pin side on the bed and 1mm brim. A pause has to be added in the slicer to insert the magnets.
 
 At the V-Minion the lead screw should be aligned well with the coupler first, than replace the coupler with the WobbleX assembly.
+
+![test](/assets/images/WobbleXII_V-Minion.png)
