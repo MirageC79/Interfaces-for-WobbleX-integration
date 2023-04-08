@@ -1,6 +1,6 @@
 An Idea for the RatRig V-Minion based on the WobbleX concept. 
 
-Development is in progress but it works pretty well so far.
+Improvement is in progress but it works pretty well so far.
 
 It is not possible to order the WobbleX WS8 at my place so I designed something similar.
 
