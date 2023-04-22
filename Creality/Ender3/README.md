@@ -1,6 +1,10 @@
 # Creality Ender 3
 
 These parts will allow installation of WobbleX Isolators WS8 on Ender 3.  
+## WARNING 
+* Following user feedback, this system is not recommended for Dual Z cartesian printers.  The WobbleX require a certain amount of weight to keep them together.  A Dual Z installation would divide the XZ gantry weight.
+* It is recommended that you use a T-Nut with limited amount of wear to avoid system twisting. Longer T-Nut with more threads is prefered.
+* It is recommended that you use use a PTFE based lubricant or other friction reduction lubricants on you leadscrew.  
 
 Notes:
 * - I do not own a Creality Ender 3, these parts have not been physically validated.  See the [Feedback](/Creality/Ender3/README.md) section.
