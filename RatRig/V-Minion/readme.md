@@ -1,7 +1,11 @@
 An Idea for the RatRig V-Minion based on the WobbleX concept. 
 
 Improvement is in progress but it works pretty well so far.
-23.05.2023: I had some problems with the heat insert for the lower part now it is clamped with 2 M3x10 screws.
+
+23.05.2023: 
+
+I had some problems with the heat insert for the lower part now it is clamped with 2 M3x10 screws. An upper interface for a SFU1204 Ball Screw was added.
+
 
 Additional to the printed parts:
 * 16 pcs. steel pins 3x10 mm
