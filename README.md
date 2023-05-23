@@ -7,7 +7,7 @@
 
 **RatRig**
    - [V-Core 3.1](https://github.com/MirageC79/Interfaces-for-WobbleX-integration/blob/main/RatRig/VCore3.1)  
-   - V-Minion ........ *coming soon...*  
+   - [V-Minion](https://github.com/MirageC79/Interfaces-for-WobbleX-integration/tree/main/RatRig/V-Minion)
 
 **Voron**
    - [Trident](https://github.com/MirageC79/Interfaces-for-WobbleX-integration/tree/main/Voron/Trident)  
